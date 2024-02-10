@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Diligent Duck",
+  "avatar": "KNaYeaaaibKKsmdKK",
+  "preferredColor": "cerulean",
+  "language": "python.3",
+  "game": "tic-tac-toe",
+  "run": "python3 -u ./main.py"
+}
